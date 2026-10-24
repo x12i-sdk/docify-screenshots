@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/docify-screenshots",
+  "packageVersion": "1.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/docify-screenshots",
+  "usageRepository": "https://github.com/x12i-sdk/docify-screenshots",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:30:28.594507+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "16a84ed33337bfe655482a7db79c035b359a40393dce28691826ef1ef2965691",
+    "manifestSha256": "e58129019da7042c3a6fc290847b81b908bcbc3d1256d3cc4989c7c4098496ef"
+  }
+}
