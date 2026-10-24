@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Screenshot shot-list schema, status reports, placeholders, and optional capture helpers for x12i docify libraries.
-- A Docify integration needs to reuse the capabilities of @x12i/docify-screenshots inside a larger application.
+- Validate a documentation screenshot shot list.
+- Generate a capture-status report or placeholder for a planned documentation image.
 
 ## Links
 
